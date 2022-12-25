@@ -1,0 +1,44 @@
+.top-container
+{
+  background-color:#EAFDFC;
+  padding-top: 50px;
+}
+.middle-container{
+    background-color: aqua ;
+    
+}
+.bottom-container{
+    background-color: blueviolet;
+    
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    width:50%;
+    margin:0 auto 0 auto;
+    background-color:antiquewhite;
+    border-radius: 100%;
+    /* font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif; */
+    font-family: 'Sacramento', cursive;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 50%;
+    right:70%;
+}
+.top-cloud{
+    position: absolute;
+    top: 20%;
+    right:20%;
+}
+.My-Profile-Photo{
+    width: 20%;
+    height: 10%;
+    text-align: center;
+    border-radius: 40%;
+}
